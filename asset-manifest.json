@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/my-screening-app/static/css/main.ed942da2.css",
+    "main.js": "/my-screening-app/static/js/main.f427ec5b.js",
+    "static/js/787.28cb0dcd.chunk.js": "/my-screening-app/static/js/787.28cb0dcd.chunk.js",
+    "index.html": "/my-screening-app/index.html",
+    "main.ed942da2.css.map": "/my-screening-app/static/css/main.ed942da2.css.map",
+    "main.f427ec5b.js.map": "/my-screening-app/static/js/main.f427ec5b.js.map",
+    "787.28cb0dcd.chunk.js.map": "/my-screening-app/static/js/787.28cb0dcd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ed942da2.css",
+    "static/js/main.f427ec5b.js"
+  ]
+}
