@@ -112,14 +112,12 @@ const questions = [
     question: "Why are you the best web designer for this position?",
     answer:
       "I believe I’m best fit for the web designer position due to my knowledge, skills and experiences that directly align with the requirements and responsibilities of the role. Beyond my technical abilities, I enjoy working in collaborative environments with a team of people. I love the idea of contributing to something as well as having the opportunity to learn from those around me. My background in graphic design and filmmaking has often exposed me to collaborative projects, and working with a team to achieve a shared goal. While most of my coursework has predominantly focused on front-end applications, I am currently studying backend technologies through Free Code Camp to broaden my skill set, so that I’m able to contribute and in an effective way across the spectrum of web development. The field of web development is ever-changing and ever evolving, and that’s one of the things that I really like about it. My love for learning and trying my hand at new technologies keeps me curious and wanting to learn more about the industry.This is what allows me to stay up to date with the latest tech trends. In addition to this, in my experience of film editing and graphic design, I have worked with diverse visual and audio formats and made them compatible web formats. In summary, I strongly believe that my qualifications, skills, and experiences align well with the expectations of this role, and my passion for web design will make me an asset to the team.",
-
     color: "white",
   },
   {
     question: "Can you handle all these duties effectively?",
     answer:
       "Yes, I am confident that I can handle all of these duties effectively. Thank you for considering my candidacy and I look forward to the possibility of working together.",
-
     color: "scarlet",
   },
   {
