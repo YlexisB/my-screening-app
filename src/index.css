@@ -88,6 +88,24 @@ textarea :hover {
   width: 500px;
   height: 300px;
 }
+
+button {
+  -webkit-border-radius: 5;
+  -moz-border-radius: 5;
+  border-radius: 5px;
+  font-family: Arial;
+  color: #ffffff;
+  font-size: 17px;
+  background: #4724e3;
+  padding: 16px 20px 17px 20px;
+  text-decoration: none;
+  border: none;
+}
+button:hover {
+  background: #e9c46a;
+  text-decoration: none;
+}
+
 .thanks {
   display: flex;
   justify-content: center;

@@ -17,11 +17,21 @@ const Home = () => {
             <div className={`grid-item ${questions.color}`}>
               <h1>{index}</h1>
               <h3>{questions.question}</h3>
-              <textarea>{questions.answer}</textarea>
+              {questions.portfolioLink ? (
+                <a
+                  href={questions.portfolioLink}
+                  target="_blank"
+                  rel="noopener noreferrer"
+                >
+                  <button>Check Out My Portfolio</button>
+                </a>
+              ) : (
+                <textarea defaultValue={questions.answer} />
+              )}
             </div>
           );
         })}
-        <div className="grid-item beige"></div>
+
         <div className="grid-item white">
           <div className="thanks">
             <h1>Thank</h1>
